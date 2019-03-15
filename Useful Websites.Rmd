@@ -40,5 +40,11 @@ http://faculty.washington.edu/cadolph/index.php?page=22
 https://socviz.co/index.html#preface
 
 
+# Books
+
+1. reate a book 
+https://bookdown.org/yihui/bookdown/usage.html
+
+
 
 
