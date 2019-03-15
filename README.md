@@ -1,5 +1,6 @@
-# Useful_programing_R
-Reposititory of usefull code or website to improve programing skills
+# Useful R Programing
+
+Reposititory of usefull code or website to improve programing skills, this is an ongoing project started during my PhD
 
 ## Markdown 
 
@@ -26,3 +27,9 @@ http://faculty.washington.edu/cadolph/index.php?page=22
 
 3.Data Viz book
 https://socviz.co/index.html#preface
+
+##########################################################################
+## Book
+
+1. How to create an online book
+https://bookdown.org/yihui/bookdown/usage.html
