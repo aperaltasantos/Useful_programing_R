@@ -45,6 +45,16 @@ https://socviz.co/index.html#preface
 1. reate a book 
 https://bookdown.org/yihui/bookdown/usage.html
 
+---
+## Data analysis
+
+
+
+
+
+---
+## Generate tables
+
 
 
 
