@@ -42,7 +42,7 @@ https://socviz.co/index.html#preface
 
 # Books
 
-1. reate a book 
+1.Create a book 
 https://bookdown.org/yihui/bookdown/usage.html
 
 ---
