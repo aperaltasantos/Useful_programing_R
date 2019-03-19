@@ -1,22 +1,102 @@
 ---
-title: "My first book"
-author: "A Peralta Santos"
+title: "R Programing resources"
+author: "A Peralta-Santos & Y. Kawakatsu"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
   bookdown:::gitbook: default
+  cover-image: "seattle.png"
 ---
 
 # Preface {-}
 
-In this book, we will introduce an interesting
-method.
+## Why this Book
+
+If you are learning R this book will help you learn faster by providing curated resources what will facilitate your learning
 
 # Introduction
 
-This chapter is an overview of the methods that
-we propose to solve an **important problem**.
+This book is divided in chapters
 
-# Literature
 
-Here is a review of existing methods.
+# Markdown 
+
++ [Intro to markdown](http://www.math.mcgill.ca/yyang/regression/RMarkdown/example.html)
+
+A good intro to markdowm
+
+
++ [Equation and math notation is markdown](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html)
+
+Good resource for writing equations in markdowm
+
+
++ [Beutify the Markdown](http://jianghao.wang/post/2017-12-08-rmarkdown-templates/)
+
+Make nice reports with your markdown
+
++ [Predty Doc](http://yixuan.cos.name/prettydoc/themes.html)
+
+Probably the best resourse for templates using markdown 
+
+
+
+# Data Visualization 
+
++ [Interactive plots](https://plot.ly/ggplot2/)
+
+Usefull code for diferent kind for ggplot2 and code to create interactive graphs
+
+--------------------------------------
+
++ [Data Viz book from a UW professor](http://faculty.washington.edu/cadolph/index.php?page=22)
+
+Nice resource for plots specialy for ploting models 
+
+--------------------------------------
++ [Data Viz book by K. Healy](https://socviz.co/index.html#preface)
+
+Probably the best Data Visualization book in the market, with usefull R code
+
+
+
+# Public Datasets
+
+## API 
++ [Econmic data](https://github.com/dbnomics/rdbnomics)
+
+Absolutly amazing database with a lot of economic data, the integration with thr R workflow was not tested  
+
++ [DHS API](https://github.com/ropensci/rdhs)
+
+Allows the user to interact with DHS data sirectly 
+
+## Repositories 
+
++ [Amazon AWS](https://registry.opendata.aws/https://registry.opendata.aws/)
+
+Never tested 
+
++ [Git Hub repo with a links to databases](https://github.com/awesomedata/awesome-public-datasets#healthcare)
+
+
+
+# Essential packages 
+
++ library(data.table) #faster way to read large dataset
++ library(tidyverse) #load dplyr, tidyr and ggplot
++ library(ggmap) #use to read map
++ library(maps) #map tools kits
++ library(mapdata) #read the map data
++ library(lubridate) #date manuplation
++ [library(ggrepel) #better label](https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html)
++ library(varhandle) #load the function unfactor
+
+# Books
+
++ [Best books](https://bookdown.org/)
+
+
+Create a book  https://bookdown.org/yihui/bookdown/usage.html
+
+Machine learning 
