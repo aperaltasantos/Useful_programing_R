@@ -1,0 +1,26 @@
+--- 
+title: "Authoring A Book with R Markdown"
+author: "Yihui Xie"
+date: "`r Sys.Date()`"
+site: "bookdown::bookdown_site"
+output:
+  bookdown::html_book:
+    theme: united
+---
+
+# Technical Podcasts
+
+These podcasts are aimed at a more technical audience.
+
+## Becoming a Data Scientist
+
+A biweekly interview with a data scientist or someone on their way to becoming a data scientist.
+
+* [\@BecomingDataSci](https://twitter.com/BecomingDataSci)
+* [Website](http://www.becomingadatascientist.com/category/podcast/)
+* [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
+* [RSS](https://www.becomingadatascientist.com/feed/podcast)
+
+## Concerning AI 
+
+A show about AI. 

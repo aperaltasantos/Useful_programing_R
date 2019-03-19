@@ -1,0 +1,22 @@
+---
+title: "My first book"
+author: "A Peralta Santos"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown:::gitbook: default
+---
+
+# Preface {-}
+
+In this book, we will introduce an interesting
+method.
+
+# Introduction
+
+This chapter is an overview of the methods that
+we propose to solve an **important problem**.
+
+# Literature
+
+Here is a review of existing methods.
