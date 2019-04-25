@@ -6,5 +6,5 @@ server: rpubs.com
 hostUrl: rpubs.com
 appId: https://api.rpubs.com/api/v1/document/477447/236e04e62e5f45b6a084efa2cd27c462
 bundleId: https://api.rpubs.com/api/v1/document/477447/236e04e62e5f45b6a084efa2cd27c462
-url: http://rpubs.com/publish/claim/477447/073898a65a504a15b9d5668f763ad253
-when: 1552943743.70404
+url: http://rpubs.com/aperalta/477447
+when: 1556047830.11841
