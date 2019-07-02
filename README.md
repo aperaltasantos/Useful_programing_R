@@ -33,3 +33,6 @@ https://socviz.co/index.html#preface
 
 1.How to create an online book
 https://bookdown.org/yihui/bookdown/usage.html
+
+2. Reproducible science
+https://3mmarand.github.io/rbs_intro/#153
